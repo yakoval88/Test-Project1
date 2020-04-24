@@ -8,3 +8,5 @@ Test case for this project:
 3. In english version (new window) go to online banking and choose Leumi Israel online
 4. Fill up account login with any data
 5. On login failure take a screenshot of the page
+
+The main file is TestLogin.java. Base class could be found in Base.jase
